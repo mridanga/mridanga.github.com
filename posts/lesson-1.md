@@ -8,6 +8,6 @@
 }
 </data>
 
-Get taught son, get taught!
+Get taught son, get taught!!!
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/7IhAMRLRS4Y" frameborder="0" allowfullscreen></iframe>
