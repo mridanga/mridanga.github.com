@@ -2,7 +2,9 @@
 {
     "date": "Januar 1, 2013",
     "title": "Learning the Bols",
-    "synopsis": "In this lesson, we will cover the basic strikes of the Mridanga."
+    "synopsis": "In this lesson, we will cover the basic strikes of the Mridanga.",
+    "urlPath": "lesson/",
+    "urlName": "one"
 }
 </data>
 
