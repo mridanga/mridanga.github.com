@@ -4,5 +4,7 @@
     "rootPathAbs": "/Users/kwelch12/Sites/blog/",
     "rootPathRel": "./",
 
-    "trimHTML": false
+    "trimHTML": false,
+
+    "inputFolders": ["lessons"]
 }
