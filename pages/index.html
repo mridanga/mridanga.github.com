@@ -5,21 +5,13 @@
 </data>
 
 
-<js>
-this.posts = _.chain(site.posts)
-                .sortBy(site.posts, function(i) { return -dateValue(i.date); })
-                .toArray()
-                .first(2)
-                .value();
-</js>
+# Learning mridanga
 
-{{#posts}}
-    <hgroup>
-        <a href="/{{urlFull}}">
-            <h2>{{title}}</h2>
-        </a>
-    </hgroup>
-    {{#synopsis}}
-        <p>{{synopsis}} <a href="{{urlFull}}">Read More.</a></p>
-    {{/synopsis}}
-{{/posts}}
+For people who just want to learn and do not have enough time to get bogged down with details.
+
+
+*(Forgive me if there is information you do not want up here at the moment. I am temporarily vomiting all the information I have gleaned up)*
+
+## Notes:
+
+It would be pretty cool if you hovered over a note it would give you synonyms + how to play the note
