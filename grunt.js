@@ -18,8 +18,8 @@ module.exports = function(grunt) {
                 'partials/*.md',
                 'partials/*.html',
 
-                'posts/*.md',
-                'posts/*.html',
+                'lessons/*.md',
+                'lessons/*.html',
 
                 '*.js'
             ],

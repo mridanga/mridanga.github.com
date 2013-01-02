@@ -13,8 +13,24 @@ Grandaddy mantra (kaherva)
 
 We will learn the most common one played
 
-dha ge ti kha
-na ge dhi na
+    dha ge ti kha
+    na ge dhi na
+
+
+<table>
+    <tr>
+        <td>dha</td> 
+        <td>ge</td> 
+        <td>ti</td> 
+        <td>kha</td> 
+    </tr>
+    <tr>
+        <td>na</td> 
+        <td>ge</td> 
+        <td>dhi</td> 
+        <td>na</td> 
+    </tr>
+</table>
 
 new bols
 

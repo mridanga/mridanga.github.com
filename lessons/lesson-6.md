@@ -14,13 +14,33 @@ This will help get through the fast part of a kirtan. This is called double time
 
 This is a modified version of the first part of prabhupada tala
 
-khe - khe ti ge dha
+    khe - khe ti ge dha
+
+
+
+<table>
+    <tr>
+        <td>khe</td> 
+        <td>-</td> 
+        <td>khe ti</td> 
+        <td>ge dha</td> 
+    </tr>
+</table>
 
 is the origional
 
 the new mantra
 
-khe - ta khe ti ge dha
+    khe ta khe ti ge dha
+
+<table>
+    <tr>
+        <td>khe</td> 
+        <td>ta</td> 
+        <td>khe ti</td> 
+        <td>ge dha</td> 
+    </tr>
+</table>
 
 Practicing singing to this
 

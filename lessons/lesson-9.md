@@ -15,10 +15,34 @@ timing is very important
 lopha tala
 
 
-tak ta -
-khikhi tak jha
-ge dhe na
-ge dhe na
+    tak ta -
+    khikhi tak jha
+    ge dhe na
+    ge dhe na
+
+
+<table>
+    <tr>
+        <td>tak</td> 
+        <td>ta</td> 
+        <td>-</td> 
+    </tr>
+    <tr>
+        <td>khikhi</td> 
+        <td>tak</td> 
+        <td>jha</td> 
+    </tr>
+    <tr>
+        <td>ge</td> 
+        <td>dhe</td> 
+        <td>na</td> 
+    </tr>
+    <tr>
+        <td>ge</td> 
+        <td>dhe</td> 
+        <td>na</td> 
+    </tr>
+</table>
 
 
 new bols
@@ -28,17 +52,66 @@ tak ta cycles throughout this mantra.
 
 variations:
 
-tak ta -
-khikhi tak gejha
-ge dhe na
-ge dhe na
+    tak ta -
+    khikhi tak gejha
+    ge dhe na
+    ge dhe na
+
+<table>
+    <tr>
+        <td>tak</td> 
+        <td>ta</td> 
+        <td>-</td> 
+    </tr>
+    <tr>
+        <td>khikhi</td> 
+        <td>tak</td> 
+        <td>ge jha</td> 
+    </tr>
+    <tr>
+        <td>ge</td> 
+        <td>dhe</td> 
+        <td>na</td> 
+    </tr>
+    <tr>
+        <td>ge</td> 
+        <td>dhe</td> 
+        <td>na</td> 
+    </tr>
+</table>
+
+
 
 and
 
-tak ta -
-khikhi tak jha
-ge dhe na
-gege dhe na
+    tak ta -
+    khikhi tak jha
+    ge dhe na
+    gege dhe na
+
+<table>
+    <tr>
+        <td>tak</td> 
+        <td>ta</td> 
+        <td>-</td> 
+    </tr>
+    <tr>
+        <td>khikhi</td> 
+        <td>tak</td> 
+        <td>jha</td> 
+    </tr>
+    <tr>
+        <td>ge</td> 
+        <td>dhe</td> 
+        <td>na</td> 
+    </tr>
+    <tr>
+        <td>ge ge</td> 
+        <td>dhe</td> 
+        <td>na</td> 
+    </tr>
+</table>
+
 
 mix and match, use both or none
 

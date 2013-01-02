@@ -15,17 +15,63 @@ tiri: is just an alternating ti followed by a ri
 
 New versions of Prabhupada tala
 
-khe - khe ti
-ge dha ge dha
-dha - - ta
-ti tiri tiri ta
+    khe - khe ti
+    ge dha ge dha
+    dha - - ta
+    ti tiri tiri ta
+
+<table>
+    <tr>
+        <td>khe</td> 
+        <td>-</td> 
+        <td>khe ti</td> 
+        <td>ge dha</td>
+    </tr>
+    <tr>
+        <td>ge</td> 
+        <td>dha</td> 
+        <td>ge</td> 
+        <td>dha</td> 
+    </tr>
+    <tr>
+        <td>dha</td> 
+        <td>-</td> 
+        <td>-</td> 
+        <td>ta</td> 
+    </tr>
+    <tr>
+        <td>ti</td> 
+        <td>tiri</td> 
+        <td>tiri</td> 
+        <td>ta</td> 
+    </tr>
+</table>
 
 
 New Tihai
 
-khe ta khe ta jha
-khe ta khe ta jha
-khe ta khe ta 
+    khe ta khe ta jha
+    khe ta khe ta jha
+    khe ta khe ta 
+
+
+<table>
+    <tr>
+        <td>khe ta</td> 
+        <td>khe ta</td> 
+        <td>jha</td> 
+    </tr>
+    <tr>
+        <td>khe ta</td> 
+        <td>khe ta</td> 
+        <td>jha</td> 
+    </tr>
+    <tr>
+        <td>khe ta</td> 
+        <td>khe ta</td> 
+        <td>-</td> 
+    </tr>
+</table>
 
 easier to play in some instances
 

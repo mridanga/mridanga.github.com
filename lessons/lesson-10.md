@@ -17,28 +17,42 @@ this has an off beat nature to it, used in the medium to fast part of the kirtan
 
 found often in bhajans (hence the name)
 
-ghe ta ghe
-ghe dha
-ghe ta khe
-khe ta
+    ghe ta ghe
+    ghe dha
+    ghe ta khe
+    khe ta
 
-ghe taghe ghe dha
-ghe takhe -khe ta
+*Note sure if this is the right box format...*
+
+<table>
+    <tr>
+        <td>ghe</td> 
+        <td>ta ghe</td> 
+        <td>ghe</td> 
+        <td>dha</td> 
+    </tr>
+    <tr>
+        <td>ghe</td> 
+        <td>ta khe</td> 
+        <td>khe</td> 
+        <td>ta</td> 
+    </tr>
+</table>
 
 
 variations (double up the ghes)
 
-ghe ta ghe
-ghe dha
-gheghe ta khe
-khe ta
+    ghe ta ghe
+    ghe dha
+    gheghe ta khe
+    khe ta
 
 and
 
-gheghe ta ghe
-ghe dha
-ghe ta khe
-khe ta
+    gheghe ta ghe
+    ghe dha
+    ghe ta khe
+    khe ta
 
 practice w/ kirtan
 

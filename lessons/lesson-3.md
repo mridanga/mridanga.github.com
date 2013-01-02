@@ -19,9 +19,27 @@ jha: synonym for dha
 
 remember, dha is ge + ta
 
-ta khe ta jha
-ta khe ta jha
-ta khe ta -
+    ta khe ta jha
+    ta khe ta jha
+    ta khe ta -
+
+<table>
+    <tr>
+        <td>ta</td> 
+        <td>khe ta</td> 
+        <td>jha</td> 
+    </tr>
+    <tr>
+        <td>ta</td> 
+        <td>khe ta</td> 
+        <td>jha</td> 
+    </tr>
+    <tr>
+        <td>ta</td> 
+        <td>khe ta</td> 
+        <td>-</td> 
+    </tr>
+</table>
 
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/tJHSak0LCV8" frameborder="0" allowfullscreen></iframe>
@@ -34,18 +52,18 @@ Here we demonstrate how to implement a tihai. 3 mantras + 1 tihai
 
 expanded:
 
-ta khe - -
-khe ta ge ge
+    ta khe - -
+    khe ta ge ge
 
-ta khe - -
-khe ta ge ge
+    ta khe - -
+    khe ta ge ge
 
-ta khe - -
-khe ta ge ge
+    ta khe - -
+    khe ta ge ge
 
-ta khe ta jha
-ta khe ta jha
-ta khe ta -
+    ta khe ta jha
+    ta khe ta jha
+    ta khe ta -
 
 First we will just play it, then we will sing with it
 

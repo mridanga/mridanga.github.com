@@ -29,10 +29,22 @@ Rythem:
 
 Very simple rhythm used in kirtans
 
-- is a pause
+`-` is a pause
 
-ta - - - 
-khe ta ge ge
+<table>
+    <tr>
+        <td>ta</td> 
+        <td>-</td> 
+        <td>-</td> 
+        <td>-</td> 
+    </tr>
+    <tr>
+        <td>khe</td> 
+        <td>ta</td> 
+        <td>ge</td> 
+        <td>ge</td> 
+    </tr>
+</table>
 
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/7IhAMRLRS4Y" frameborder="0" allowfullscreen></iframe>
