@@ -3,7 +3,6 @@
     "date": "Januar 1, 2013",
     "title": "2: More Mantras",
     "synopsis": "",
-    "urlPath": "lesson/",
     "urlName": "two"
 }
 </data>

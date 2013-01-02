@@ -3,7 +3,6 @@
     "date": "Januar 1, 2013",
     "title": "8: New Prabhupada Talas",
     "synopsis": "",
-    "urlPath": "lesson/",
     "urlName": "eight"
 }
 </data>

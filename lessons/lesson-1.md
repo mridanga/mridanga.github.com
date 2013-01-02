@@ -3,7 +3,6 @@
     "date": "Januar 1, 2013",
     "title": "1: Learning the Bols",
     "synopsis": "",
-    "urlPath": "lesson/",
     "urlName": "one"
 }
 </data>

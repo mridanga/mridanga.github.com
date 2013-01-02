@@ -3,7 +3,6 @@
     "date": "Januar 1, 2013",
     "title": "7: Three Beats",
     "synopsis": "",
-    "urlPath": "lesson/",
     "urlName": "seven"
 }
 </data>

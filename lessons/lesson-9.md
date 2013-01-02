@@ -3,7 +3,6 @@
     "date": "Januar 1, 2013",
     "title": "9: Lopha Tala, Damodarastakam",
     "synopsis": "",
-    "urlPath": "lesson/",
     "urlName": "nine"
 }
 </data>

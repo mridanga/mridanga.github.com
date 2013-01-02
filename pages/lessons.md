@@ -1,13 +1,20 @@
 <data>
 {
-    "urlPath": ""
+    "id": "lessonIndex",
+    "urlPath": "lessons/",
+    "urlName": "index"
 }
 </data>
 
 
 <js>
-this.posts = _.chain(site.posts)
-                .sortBy(site.posts, function(i) { return -dateValue(i.date); })
+this.posts = _.chain(site.pages)
+                .filter(function(page) {
+                    return page.type === 'lesson';
+                })
+                .sortBy(function(page) {
+                    return parseInt(page.title);
+                })
                 .toArray()
                 .value();
 </js>

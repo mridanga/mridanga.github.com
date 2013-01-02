@@ -6,5 +6,5 @@
 
     "trimHTML": false,
 
-    "inputFolders": ["lessons"]
+    "inputFolders": ["lessons/"]
 }

@@ -1,7 +1,7 @@
 <data>
 {
     "title": "The Bols",
-    "urlPath": "/",
+    "urlPath": "",
     "urlName": "bols"
 }
 </data>

@@ -3,7 +3,6 @@
     "date": "Januar 1, 2013",
     "title": "4: Kaherva, the Grandaddy",
     "synopsis": "",
-    "urlPath": "lesson/",
     "urlName": "four"
 }
 </data>

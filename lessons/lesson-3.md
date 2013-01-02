@@ -3,7 +3,6 @@
     "date": "Januar 1, 2013",
     "title": "3: Using Tihais",
     "synopsis": "",
-    "urlPath": "lesson/",
     "urlName": "three"
 }
 </data>

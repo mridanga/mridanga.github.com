@@ -3,7 +3,6 @@
     "date": "Januar 1, 2013",
     "title": "10: Bhajani Tala + (Simple) Full Kirtan",
     "synopsis": "",
-    "urlPath": "lesson/",
     "urlName": "ten"
 }
 </data>

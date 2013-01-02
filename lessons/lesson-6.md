@@ -3,7 +3,6 @@
     "date": "Januar 1, 2013",
     "title": "6: Propper Double Time",
     "synopsis": "",
-    "urlPath": "lesson/",
     "urlName": "six"
 }
 </data>
