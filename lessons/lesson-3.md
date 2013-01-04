@@ -1,6 +1,5 @@
 <data>
 {
-    "date": "Januar 1, 2013",
     "title": "3: Using Tihais",
     "synopsis": "",
     "urlName": "three"
@@ -19,11 +18,21 @@ jha: synonym for dha
 
 remember, dha is ge + ta
 
-    ta khe ta jha
-    ta khe ta jha
-    ta khe ta -
+Tihais are analogous to fills in modern drumming. They are mantras peppered in sparingly into cyclic rhythms to add variety. They are typically inserted to the end of a line, mantra, or song. For the tihai we are learning today, we will need one additional bol. 
+
+### New Bols
+
+**jha:**
+This is a synonym for *dha*. Remember, *dha* is a combination bol consisting of *ge* and *ta*.
+
+### The Mantra
 
 <table>
+    <tr>
+        <td>ta</td> 
+        <td>khe ta</td> 
+        <td>jha</td> 
+    </tr>
     <tr>
         <td>ta</td> 
         <td>khe ta</td> 
@@ -46,11 +55,46 @@ remember, dha is ge + ta
 
 
 
-Suplement
+## Suplement
 
-Here we demonstrate how to implement a tihai. 3 mantras + 1 tihai
+In the supplement, we will learn how to use a tihai while playing in a kirtan. We will play 3 cycles of another mantra and then 1 cycle of the tihai. Here is what the entire song looks like in an expanded form:
 
-expanded:
+<table>
+
+    <tr>
+        <td>ta</td>
+        <td>khe</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>khe</td>
+        <td>ta</td>
+        <td>ge</td>
+        <td>ge</td>
+    </tr>
+
+    <tr>
+        <td>ta</td> 
+        <td>khe ta</td> 
+        <td>jha</td> 
+    </tr>
+    <tr>
+        <td>ta</td> 
+        <td>khe ta</td> 
+        <td>jha</td> 
+    </tr>
+    <tr>
+        <td>ta</td> 
+        <td>khe ta</td> 
+        <td>jha</td> 
+    </tr>
+    <tr>
+        <td>ta</td> 
+        <td>khe ta</td> 
+        <td>-</td> 
+    </tr>
+</table>
 
     ta khe - -
     khe ta ge ge

@@ -26,6 +26,6 @@ this.posts = _.chain(site.pages)
         </a>
     </hgroup>
     {{#synopsis}}
-        <p>{{synopsis}} <a href="{{urlFull}}">Read More.</a></p>
+        <p>{{synopsis}} <a href="/{{urlFull}}">Read More.</a></p>
     {{/synopsis}}
 {{/posts}}
