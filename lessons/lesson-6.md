@@ -2,21 +2,18 @@
 {
     "date": "Januar 1, 2013",
     "title": "6: Propper Double Time",
-    "synopsis": "",
+    "synopsis": "In lesson 6, we will learn how to play during the fast portions of a kirtan. We will adapt Prabhupada Tala to give us a mantra which is easy to play at fast speeds.",
     "urlName": "six"
 }
 </data>
 
 More practice to sing while playing prabhupada tala with some tihas
 
+So far we have covered how to play during the slow portions of a kirtan with either Prabhupada Tala in [Lesson 5](/lessons/five.html) or the mantras from [Lesson 1](/lessons/one.html) and [Lesson 2](/lessons/two.hml). When the kirtan progresses to a medium pace, the basic kaherva mantra from [Lesson 4](/lessons/four.html) will fit nicely. 
 
-This will help get through the fast part of a kirtan. This is called double time, take what you know and play it twice as fast (quick and dirty). A proper way is a derived mantra of prabhupada tala.
+However, it can be hard to keep up when kirtans get exceptionally fast. For this last portion of the kirtan, we will introduce a new mantra. This mantra is in double time. Essentially you take what you know and play it twice as fast (quick and dirty way to define double time). A proper way to play in double time is to use a mantra derived from Prabhupada Tala.
 
-This is a modified version of the first part of prabhupada tala
-
-    khe - khe ti ge dha
-
-
+First, lets take the origional first line of Prabhupada Tala from [Lesson 5](/lessons/five.html):
 
 <table>
     <tr>
@@ -27,11 +24,7 @@ This is a modified version of the first part of prabhupada tala
     </tr>
 </table>
 
-is the origional
-
-the new mantra
-
-    khe ta khe ti ge dha
+Now, replace the second matra which was a pause, and insert a *ta*:
 
 <table>
     <tr>
@@ -41,8 +34,6 @@ the new mantra
         <td>ge dha</td> 
     </tr>
 </table>
-
-Practicing singing to this
 
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/8YKj6r79jZk" frameborder="0" allowfullscreen></iframe>

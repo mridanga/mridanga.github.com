@@ -2,20 +2,32 @@
 {
     "date": "Januar 1, 2013",
     "title": "4: Kaherva, the Grandaddy",
-    "synopsis": "",
+    "synopsis": "Lesson 4 introduces the Grandaddy of all mantras, Kaherva. In this lesson we will learn the most common version of Kaherva found in kirtan circles. We will end the lesson with implimenting it in a simple kirtan with a tihai at the end of each maha mantra.",
     "urlName": "four"
 }
 </data>
 
 
+Kaherva is a very important classification of mantras to learn to play in kirtans. Kaherva mantras are all 8 beat which are typically on beat (as opposed to off beat). There are many, many variations you can play, today we will learn the most common mantra.
 
-Grandaddy mantra (kaherva)
+### New Bols
 
-We will learn the most common one played
+For this mantra we will need three new bols, one of which is a synonym.
 
-    dha ge ti kha
-    na ge dhi na
+**Daya Bols**
 
+**na:**
+This is simply a synonym for *ta*
+
+**Combination Bols**
+
+**kha:**
+This combination bol consists of *khe* and *ta*.
+
+**dhi:**
+This bol also known as *dhe,* is  *ge* and *ti*
+
+### The Mantra
 
 <table>
     <tr>
@@ -32,17 +44,7 @@ We will learn the most common one played
     </tr>
 </table>
 
-new bols
 
-kha: khe + ta
-dhi: dhe, ge + ti
-na: ta
-
-practice!
-
-If you have trouble, practice each half individually then combine them. 
-
-Applied in kirtan with a tihai at the end of every cycle
-
+This mantra is more complex than anything we have covered thus far. One way to simplify the learning process is to play the mantra one line at a time. Try practicing the first line for 5 minutes. Continue playing just the second line for 5 minutes. Once you are comfortable with each line, combine them together.
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/6PquRVe1Wa4" frameborder="0" allowfullscreen></iframe>

@@ -14,3 +14,5 @@
 ## three beat
 
 ## lopha tala
+
+## double time

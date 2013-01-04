@@ -1,22 +1,10 @@
 <data>
 {
     "title": "3: Using Tihais",
-    "synopsis": "",
+    "synopsis": "In lesson 3, we first review lesson 2 and learn how to sing alongside playing. We continue in learning Tihais which add variaty to cyclic melodies. In the sopplement, we learn how to sing while incorporating tihais.",
     "urlName": "three"
 }
 </data>
-
-
-Learning how to sing to last videos mantras
-
-Learning Tihais.
-A Tihasi is used sparingly to add variety to a kirtan. Played in sets of 3 (typically?). used at end of line, mantra, song. 
-called a fill in modern drumming.
-
-new notes
-jha: synonym for dha
-
-remember, dha is ge + ta
 
 Tihais are analogous to fills in modern drumming. They are mantras peppered in sparingly into cyclic rhythms to add variety. They are typically inserted to the end of a line, mantra, or song. For the tihai we are learning today, we will need one additional bol. 
 
@@ -24,6 +12,7 @@ Tihais are analogous to fills in modern drumming. They are mantras peppered in s
 
 **jha:**
 This is a synonym for *dha*. Remember, *dha* is a combination bol consisting of *ge* and *ta*.
+
 
 ### The Mantra
 
