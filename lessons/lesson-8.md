@@ -24,8 +24,8 @@ New versions of Prabhupada tala
     <tr>
         <td>khe</td> 
         <td>-</td> 
-        <td>khe ti</td> 
-        <td>ge dha</td>
+        <td>khe</td> 
+        <td>ti</td>
     </tr>
     <tr>
         <td>ge</td> 
