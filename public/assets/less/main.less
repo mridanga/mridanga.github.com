@@ -1,7 +1,9 @@
 // Sizes
-@copy: 16px;
+@copy: 20px;
 //@magic: 1.75 * @copy;
-@magic: 24px;
+/*@magic: 24px;*/
+@magic: 30px;
+@siteWidth: 700px;
 
 @h1: 28px;
 @h2: 22px;
@@ -259,6 +261,7 @@ ul {
 html {
     background: #fff;
     font-size: 62.5%;
+    background: url('http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/debut_light.png');
 
     /*width: 1020px;*/
     /*height: 100%;*/
@@ -282,8 +285,9 @@ body {
 
     height: 100%;
 
-    padding-top: @magic;
+    /*padding-top: @magic;*/
 
+    /*background: url('http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/grid.png');*/
     /*background: url('http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/debut_light.png');*/
 
     //overflow: hidden;
@@ -296,13 +300,19 @@ li {
 
 .main, .sidebar .wrapper {
     margin-top: @magic;
-    width: 600px;
+    /*width: 600px;*/
+    /*width: 700px;*/
+    width: @siteWidth;
     margin: 0 auto;
 }
 
 .main {
 
-    /*text-shadow: 0 1px 0 white;*/
+    padding-top: @magic;
+
+    text-shadow: 0 1px 0 white;
+
+    margin-bottom: 2*@magic;
 
     hgroup {
         /*position: relative;*/
@@ -328,10 +338,12 @@ li {
 }
 
 .sidebar {
-    /*background: url('http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/debut_dark.png');*/
+    /*background: url('http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/nasty_fabric.png');*/
+    background: url('http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/billie_holiday.png');
+
 
     /*background: rgba(0,0,0,0.1);*/
-    /*border-bottom: 5px solid rgba(255,255,255,0.5);*/
+    border-bottom: 5px solid rgba(255,255,255,0.5);
 
     font-size: @copy;
 
@@ -359,14 +371,25 @@ li {
 
     li {
         padding-right: @copy/2;
+
         a {
-            font-weight: 300;
-            color: @lightGray;
+            /*font-weight: 300;*/
+            /*color: @lightGray;*/
+
+            color: rgba(0,0,0,0.4);
+
+            text-shadow: 0 1px 1px rgba(255, 255, 255, 0.5);
+
+            /*font-weight: 300;*/
+            /*color: #333;*/
         
-            &:hover { color: #333; }
+            &:hover {
+                color: rgba(0,0,0,0.6);
+            }
             &.active { 
                 font-weight: 400 !important;
                 color: #333;
+                /*color: #ccc;*/
             }
         }
     }
@@ -384,20 +407,28 @@ li {
 }
 
 hgroup {
-    position: relative;
+    /*position: relative;*/
     margin-bottom: 24px;
 }
 
-/*h1:before {*/
-    /*content: '';*/
-    /*position: absolute;*/
-    /*left: 0;*/
-    /*margin-top: -48px;                */
-    /*width: 100%;*/
-    /*height: 96px;*/
 
-    /*background: rgba(0,0,0,0.1);*/
 
-    /*border-top: 5px solid rgba(255,255,255,0.5);*/
-    /*border-bottom: 5px solid rgba(255,255,255,0.5);*/
-/*}*/
+h1:before, h2:before {
+
+    content: '';
+    position: absolute;
+    left: 0;
+    margin-top: -@magic/2;                
+    width: 100%;
+    height: @magic*2;
+    
+    opacity: 0.25;
+
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAM0lEQVQYV2NkQAOrVq36HxYWxogsDBLDEMCmCCQGV4jLJJhGsEJCikBqGIlRBFY4nDwDALPXTgWEZin1AAAAAElFTkSuQmCC') repeat;
+
+}
+
+h3 {
+    /*border-bottom: 1px solid rgba(0,0,0,0.025);*/
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAKElEQVQIW2NkQANnz55NY0QWAwkYGxvPggvCBECKwILIAmBBdAGQIAChgBLThJ440QAAAABJRU5ErkJggg==') repeat;
+}

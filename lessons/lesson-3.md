@@ -48,43 +48,6 @@ This is a synonym for *dha*. Remember, *dha* is a combination bol consisting of 
 
 In the supplement, we will learn how to use a tihai while playing in a kirtan. We will play 3 cycles of another mantra and then 1 cycle of the tihai. Here is what the entire song looks like in an expanded form:
 
-<table>
-
-    <tr>
-        <td>ta</td>
-        <td>khe</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>khe</td>
-        <td>ta</td>
-        <td>ge</td>
-        <td>ge</td>
-    </tr>
-
-    <tr>
-        <td>ta</td> 
-        <td>khe ta</td> 
-        <td>jha</td> 
-    </tr>
-    <tr>
-        <td>ta</td> 
-        <td>khe ta</td> 
-        <td>jha</td> 
-    </tr>
-    <tr>
-        <td>ta</td> 
-        <td>khe ta</td> 
-        <td>jha</td> 
-    </tr>
-    <tr>
-        <td>ta</td> 
-        <td>khe ta</td> 
-        <td>-</td> 
-    </tr>
-</table>
-
     ta khe - -
     khe ta ge ge
 

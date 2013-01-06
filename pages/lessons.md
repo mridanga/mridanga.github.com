@@ -5,8 +5,6 @@
     "urlName": "index"
 }
 </data>
-
-
 <js>
 this.posts = _.chain(site.pages)
                 .filter(function(page) {
@@ -18,7 +16,6 @@ this.posts = _.chain(site.pages)
                 .toArray()
                 .value();
 </js>
-
 {{#posts}}
     <hgroup>
         <a href="/{{urlFull}}">
