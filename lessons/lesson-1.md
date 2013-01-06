@@ -6,7 +6,7 @@
 }
 </data>
 
-The Mridanga has two faces, a large side called the **Baya** and a small side called the **Daya**. Typically the Daya is played with your dominant hand as it requires more intricate hand motions than the Baya does. The black / brown surfaces are called **(Name of the black part)**. The tan ring surrounding the **(Insert black name thing here)** is called the **(Insert brown ring thing here)**.
+The Mridanga has two faces, a large side called the **Baya** and a small side called the **Daya**. Typically the Daya is played with your dominant hand as it requires more intricate hand motions than the Baya does. The black / brown surfaces are called **Syahi**. The tan ring surrounding the syahi is called the **Maidan**.
 
 Strikes on the two surfaces are called **Bols**. Bols can be either open (resonant), or closed (non-resonant). Furthermore, bols can be played on a single side of the Mridanga or simultaneously on both faces at once. Bols form their own alphabet, spelling out mantras as they are played. Just like any other language, bols have synonyms which aid in describing sounds. For example *ge* and *ghe* are synonyms for the same sound. Bols also have capitalizations, such as *ta* and *Ta*. *Ta* represents an emphasized *ta*. We will discuss each of these bols as we get to them. You can visit [the Bols page](/bols.html) at any time for a reference of all the bols.
 
