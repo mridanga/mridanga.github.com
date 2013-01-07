@@ -2,7 +2,7 @@
 {
     "date": "Januar 1, 2013",
     "title": "7: Three Beats",
-    "synopsis": "",
+    "synopsis": "In lesson 7, we will introduce a three beat mantra. This mantra is typically used in the ending of kirtan when the energy is peaking.",
     "urlName": "seven"
 }
 </data>
@@ -11,18 +11,13 @@
 
 Making it this far means you can play in nearly 75% of typical kirtans. we will start exploring the other 25% today.
 
-Kirtans start slow, perhpas playing prabhupada tala or ta ke ke ta ge ge. then you may transition into kaherva. Then you may play double time.
+Kirtans start slow, perhaps playing Prabhupada Tala or *ta ke ke ta ge ge*. then you may transition into Kaherva. Then you may play double time.
 
-Towards the end, when every one is up and dancing, we will explore this section now. It is typically a sign of changing form a 4 beat to a 3 beat. Dances are typically held in 3 beats (ie the waltz)
+Towards the end, when every one is up and dancing, we will explore this section now. It is typically a sign of changing form a 4 beat to a 3 beat. Dances are typically held in 3 beats (i.e. the waltz.)
 
-timing is very important
+You will notice that his mantra is in cycles of three instead of four (like Kaherva and Prabhupada Tala.) This is one of the reasons that this mantra has a fast energy to it. When practicing this mantra, it is beneficial to have Kartals accompanying you, keeping time. You can find a three beat Kartal clip at [KKSongs](http://kksongs.org/khol/chapters/lesson12.html).
 
-three beat (24 beats total)
-
-    ta - khe ta khe
-    ta - khe ta khe
-    ta - khe ta khe
-    ta ge ta ge (dha)
+### 24 Beat Mantra
 
 <table>
     <tr>
@@ -47,20 +42,9 @@ three beat (24 beats total)
     </tr>
 </table>
 
+Some things to note, the last matra of the last line has a *dha* in parenthesis. In this particular mantra, when played cyclicly, the last *dha* replaces the first matra of *ta*.
 
-the ending dha replaces ta of every subsequent repetition, ie
-
-    ta - khe ta khe
-    ta - khe ta khe
-    ta - khe ta khe
-    ta ge ta ge 
-
-    dha - khe ta khe
-    ta - khe ta khe
-    ta - khe ta khe
-    ta ge ta ge (dha)
-
-
+Here is an expanded cycle where the *dha* replaces the *ta*:
 
 <table>
     <tr>
@@ -108,14 +92,9 @@ the ending dha replaces ta of every subsequent repetition, ie
 </table>
 
 
-practice + Kirtan
+### 12 Beat Variation
 
-12 beat variation
-
-you are essentially playing the first line and then the last line
-
-    ta - khe ta khe
-    ta ge ta ge (dha)
+To add a bit more excitement and speed, you can cut out the middle two lines of the original mantra making a 12 beat variation. Again, the last *dha* replaces the first *ta* when played cyclically.
 
 <table>
     <tr>
@@ -130,17 +109,9 @@ you are essentially playing the first line and then the last line
     </tr>
 </table>
 
-note, you role the dha over to the next cycle, ie
+### The Three Beat Variation
 
-    ta - khe ta khe
-    ta ge ta ge 
-
-    dha - khe ta khe
-    ta ge ta ge 
-
-the last hura! is just
-
-    ta ghe ta ghe 
+To get *even more* excitement, you can just play a continual three beat. Use this sparingly when excitement is at a peak.
 
 <table>
     <tr>
@@ -150,13 +121,11 @@ the last hura! is just
     </tr>
 </table>
 
-we can further intensify the original mantra by doubling up on khes or ghes, shown with the first 24 beat
+### The 24 Beat Doubletime
 
-    ta - khe ta khe
-    ta - khekhe ta khe
-    ta - khekhe ta khe
-    ta gege ta ge (dha)
+We can further intensify the original mantra by doubling up on *khes* or *ghes*, shown with the first 24 beat. You will notice that there are now three bols in certain matras; such as matra five (*khekhe ta*).
 
+In this notation, when two bols are touching within a matra they are played immediately together. When there is a space, there is the slightest of pauses between them. This will become clearer in the video lesson.
 
 <table>
     <tr>

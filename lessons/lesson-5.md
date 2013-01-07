@@ -2,67 +2,14 @@
 {
     "date": "Januar 1, 2013",
     "title": "5: Prabhupada Tala",
-    "synopsis": "",
+    "synopsis": "In lesson 5, we will learn Prabhupada Tala. This tala was first taught to Srila Prabhupada by his father and is extreamly popular.",
     "urlName": "five"
 }
 </data>
 
+The next mantra we will learn is called Prabhupada Tala. (*Check this for truthfullness*) This style of mantra was the first mantra taught to Srila Prabhupada by his father. Not coincidentally, this class of mantra is extremely popular and often heard during the slow to medium portions of kirtans.
 
-new mantra - Prabhupada mantra
-
-named after the founder acharya of iskon Srila Prabhupada
-
-twice as long as the mantras we have learned from before
-
-very popular
-
-nearly every iskon kirtan starts with a variation of this mantra
-
-**This was taken from the comments, not sure how to boxify it**
-
-    khe - khe ti ge dha
-    ge dha
-    ge dha
-    dha -
-    ta ta
-    - ta
-
-
-
-<table>
-    <tr>
-        <td>khe</td> 
-        <td>-</td> 
-        <td>khe</td> 
-        <td>ti</td>
-    </tr>
-    <tr>
-        <td>ge</td> 
-        <td>dha</td> 
-        <td>ge</td> 
-        <td>dha</td> 
-    </tr>
-    <tr>
-        <td>ge</td> 
-        <td>dha</td> 
-        <td>ge</td> 
-        <td>dha</td> 
-    </tr>
-    <tr>
-        <td>dha</td> 
-        <td>-</td> 
-        <td>ta</td> 
-        <td>ta</td> 
-    </tr>
-    <tr>
-        <td>-</td> 
-        <td>-</td> 
-        <td>-</td> 
-        <td>ta</td> 
-    </tr>
-</table>
-
-*or perhaps*
+Prabhupada Tala is 16 matras long, twice as long as kaherva. Again, the best way to approach this is to break the mantra into lines and practice them one at a time.
 
 <table>
     <tr>
@@ -91,6 +38,5 @@ nearly every iskon kirtan starts with a variation of this mantra
     </tr>
 </table>
 
-practicing in a kirtan
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/W3-nncLThm4" frameborder="0" allowfullscreen></iframe>

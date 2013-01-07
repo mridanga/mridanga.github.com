@@ -4,15 +4,15 @@
 }
 </data>
 
-
 # Learning mridanga
+
+The next line should be all one one line or close to it.
 
 aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaa
 
 For people who just want to learn and do not have enough time to get bogged down with details.
 
-
-*(Forgive me if there is information you do not want up here at the moment. I am temporarily vomiting all the information I have gleaned up.)*
+This will be a resource (*hopefully*) that aggregates all the mridanga lessons out there for newcomers to learn the instrument.
 
 ## Notes:
 

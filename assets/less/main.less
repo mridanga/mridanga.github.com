@@ -2,7 +2,7 @@
 @copy: 20px;
 //@magic: 1.75 * @copy;
 /*@magic: 24px;*/
-@magic: 35px;
+@magic: 30px;
 @siteWidth: 700px;
 
 @h1: 28px;
@@ -54,7 +54,7 @@ p, .p {
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     margin-bottom: @magic;
-    font-family: "Helvetica Neue";
+    font-family: "Helvetica Neue", "Lato", "Helvetica";
     text-transform: uppercase;
     font-weight: 400;
 }
@@ -428,7 +428,22 @@ h1:before, h2:before {
 
 }
 
-h3 {
-    /*border-bottom: 1px solid rgba(0,0,0,0.025);*/
+h3:before {
+
+    content: '';
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: @magic;
+
+    opacity: 0.65;
+
     background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAKElEQVQIW2NkQANnz55NY0QWAwkYGxvPggvCBECKwILIAmBBdAGQIAChgBLThJ440QAAAABJRU5ErkJggg==') repeat;
+}
+
+a h2{
+    .transition(all, .2s, linear);
+}
+a:hover h2 {
+    color: rgba(0,0,0,0.5);
 }
