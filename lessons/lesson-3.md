@@ -8,7 +8,7 @@
 
 Tihais are analogous to fills in modern drumming. They are mantras peppered in sparingly into cyclic rhythms to add variety. They are typically inserted to the end of a line, mantra, or song. For the tihai we are learning today, we will need one additional bol. 
 
-### New Bols
+### Combination Bols
 
 **jha:**
 This is a synonym for *dha*. Remember, *dha* is a combination bol consisting of *ge* and *ta*.
@@ -30,14 +30,66 @@ This is a synonym for *dha*. Remember, *dha* is a combination bol consisting of 
     <tr>
         <td>ta</td> 
         <td>khe ta</td> 
+        <td>-</td> 
+    </tr>
+</table>
+
+*I am not sure if you simply play the tihai in such a way that it does not make a difference or the last matra consumes the first matra of the next cycle. Change this if need be*
+
+If you notice, the tihai we just learned consists of nine matras. As the most common kirtan rhythms are bases of four, you would think there would be an issue with tihais throwing off the beat of the kirtan. Taking a closer look, the last matra is a pause. This pause actually is the start of the next mantra; brining the length of the tihai down from nine matras to eight.
+
+For example, if you are playing:
+
+<table>
+    <tr>
+        <td>ta</td> 
+        <td>khe</td> 
+        <td>-</td> 
+        <td>khe</td> 
+    </tr>
+    <tr>
+       <td>ta</td> 
+        <td>ghe</td> 
+        <td>ghe</td> 
+        <td>-</td> 
+    </tr>
+</table>
+
+and wanted to insert this tihai before it, it would look something like this.
+
+<table>
+    <tr>
+        <td>ta</td> 
+        <td>khe ta</td> 
         <td>jha</td> 
     </tr>
     <tr>
         <td>ta</td> 
         <td>khe ta</td> 
+        <td>jha</td> 
+    </tr>
+    <tr>
+        <td>ta</td> 
+        <td>khe ta</td> 
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td>ta</td> 
+        <td>khe</td> 
+        <td>-</td> 
+        <td>khe</td> 
+    </tr>
+    <tr>
+       <td>ta</td> 
+        <td>ghe</td> 
+        <td>ghe</td> 
         <td>-</td> 
     </tr>
 </table>
+
+The last pause gets filled by first matra of the next mantra. Counting all the matras gives us a total of 16 which keeps us in rhythm.
 
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/tJHSak0LCV8" frameborder="0" allowfullscreen></iframe>
@@ -46,22 +98,67 @@ This is a synonym for *dha*. Remember, *dha* is a combination bol consisting of 
 
 ## Suplement
 
-In the supplement, we will learn how to use a tihai while playing in a kirtan. We will play 3 cycles of another mantra and then 1 cycle of the tihai. Here is what the entire song looks like in an expanded form:
+In the supplement, we will learn how to use a tihai while playing in a kirtan. We will play three cycles of another mantra and then one cycle of the tihai. Here is what the entire song looks like in an expanded form:
 
-    ta khe - -
-    khe ta ge ge
-
-    ta khe - -
-    khe ta ge ge
-
-    ta khe - -
-    khe ta ge ge
-
-    ta khe ta jha
-    ta khe ta jha
-    ta khe ta -
-
-First we will just play it, then we will sing with it
+<table>
+    <tr>
+        <td>ta</td> 
+        <td>khe</td> 
+        <td>-</td> 
+        <td>khe</td> 
+    </tr>
+    <tr>
+       <td>ta</td> 
+        <td>ghe</td> 
+        <td>ghe</td> 
+        <td>-</td> 
+    </tr>
+</table>
+<table>
+    <tr>
+        <td>ta</td> 
+        <td>khe</td> 
+        <td>-</td> 
+        <td>khe</td> 
+    </tr>
+    <tr>
+       <td>ta</td> 
+        <td>ghe</td> 
+        <td>ghe</td> 
+        <td>-</td> 
+    </tr>
+</table>
+<table>
+    <tr>
+        <td>ta</td> 
+        <td>khe</td> 
+        <td>-</td> 
+        <td>khe</td> 
+    </tr>
+    <tr>
+       <td>ta</td> 
+        <td>ghe</td> 
+        <td>ghe</td> 
+        <td>-</td> 
+    </tr>
+</table>
+<table>
+    <tr>
+        <td>ta</td> 
+        <td>khe ta</td> 
+        <td>jha</td> 
+    </tr>
+    <tr>
+        <td>ta</td> 
+        <td>khe ta</td> 
+        <td>jha</td> 
+    </tr>
+    <tr>
+        <td>ta</td> 
+        <td>khe ta</td> 
+        <td>-</td> 
+    </tr>
+</table>
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/mpGTI1Ps49o" frameborder="0" allowfullscreen></iframe>
 
