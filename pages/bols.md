@@ -20,9 +20,8 @@ If a bol has a synonym, it will appear in [brackets].
 
 **Closed**
 
-- **ra:** Scoop with index hit the upper half of the syahi, closed ta
-- **ti:** Scoop last 3 fingers and hit the bottom half of the syahi
-- **ri:** A closed version of *ta*. Strike the syahi with the index finger
+- **ra:** *[ri]* A closed *ta*, scoop with the index finger and hit the upper half of the syahi
+- **ti:** *[tak]* Scoop last 3 fingers and hit the bottom half of the syahi
 - **te:** Middle finger on the center
 
 ##Baya Bols: (Large End)

@@ -2,30 +2,27 @@
 {
     "date": "Januar 1, 2013",
     "title": "9: Lopha Tala, Damodarastakam",
-    "synopsis": "",
+    "synopsis": "In lesson 9 we will learn an excelent mantra to play alongside the Damodarastakam Prayers.",
     "urlName": "nine"
 }
 </data>
 
 
-"two beat" It is actually a three beat with the third being silent. Used during the damodarastakam prayers
+Lopha Tala is typically called a "two beat," which is bit of a misnomer. It is actually a three beat tala with the third beat being silent. This mantra is typically used during the damodarastakam prayers
 
-timing is very important
+Some things to note about this mantra. For starters, it is very cyclical on the Daya. Throughout the entire mantra, *- tak ta* is played. Secondly, this is a fairly simple mantra; the only difficult aspect is the timing.
 
-lopha tala
+Lets take a look at the new bol:
 
+### Daya Bols
 
-    tak ta -
-    khikhi tak jha
-    ge dhe na
-    ge dhe na
-
+**tak:** A synonym for *ti.* 
 
 <table>
     <tr>
+        <td>-</td> 
         <td>tak</td> 
         <td>ta</td> 
-        <td>-</td> 
     </tr>
     <tr>
         <td>khikhi</td> 
@@ -45,23 +42,17 @@ lopha tala
 </table>
 
 
-new bols
-tak: same as ti
+### Variations
 
-tak ta cycles throughout this mantra. 
+To add a little variation to the mantra, you can add an extra *ghe* in two locations. You can add it at the start of matra six, or matra ten.
 
-variations:
-
-    tak ta -
-    khikhi tak gejha
-    ge dhe na
-    ge dhe na
+**Matra 6**
 
 <table>
     <tr>
+        <td>-</td> 
         <td>tak</td> 
         <td>ta</td> 
-        <td>-</td> 
     </tr>
     <tr>
         <td>khikhi</td> 
@@ -80,20 +71,13 @@ variations:
     </tr>
 </table>
 
-
-
-and
-
-    tak ta -
-    khikhi tak jha
-    ge dhe na
-    gege dhe na
+**Matra 10**
 
 <table>
     <tr>
+        <td>-</td> 
         <td>tak</td> 
         <td>ta</td> 
-        <td>-</td> 
     </tr>
     <tr>
         <td>khikhi</td> 
@@ -111,12 +95,5 @@ and
         <td>na</td> 
     </tr>
 </table>
-
-
-mix and match, use both or none
-
-Apply it to the damodarastakam and a simple kirtan
-
-not typically played fast
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/XxbBz5g5zxc" frameborder="0" allowfullscreen></iframe>
