@@ -2,7 +2,7 @@
 {
     "date": "Januar 1, 2013",
     "title": "8: New Prabhupada Tala and Tihai",
-    "synopsis": "In lesson eight, we will a new variation of Prabhupada Tala and a new Tihai as well.",
+    "synopsis": "In lesson 8, we will a new variation of Prabhupada Tala and a new Tihai as well.",
     "urlName": "eight"
 }
 </data>

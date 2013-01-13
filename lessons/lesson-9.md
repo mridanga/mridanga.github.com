@@ -2,7 +2,7 @@
 {
     "date": "Januar 1, 2013",
     "title": "9: Lopha Tala, Damodarastakam",
-    "synopsis": "In lesson 9 we will learn an excelent mantra to play alongside the Damodarastakam Prayers.",
+    "synopsis": "In lesson 9, we will learn an excelent mantra to play alongside the Damodarastakam Prayers.",
     "urlName": "nine"
 }
 </data>
