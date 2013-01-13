@@ -30,6 +30,8 @@ The particular mantra we are learning today is typically used in a medium or fas
     </tr>
 </table>
 
+### Variations
+
 You can add some variation to this mantra by doubling up on the *ghe's* in certain positions. Here are two such places you can do so (at the start of each line of the mantra):
 
 <table>
