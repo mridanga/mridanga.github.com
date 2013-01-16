@@ -6,12 +6,6 @@
 
 # Learning mridanga
 
-The next line should be all one one line or close to it.
-
-aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaa
-
-For people who just want to learn and do not have enough time to get bogged down with details.
-
 This will be a resource (*hopefully*) that aggregates all the mridanga lessons out there for newcomers to learn the instrument.
 
 ## Notes:
