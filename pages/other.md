@@ -2,7 +2,8 @@
 {
     "title": "Other Mantras",
     "urlPath": "",
-    "urlName": "other"
+    "urlName": "other",
+    "navActive": "Other Mantras"
 }
 </data>
 

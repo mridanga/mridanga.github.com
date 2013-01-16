@@ -1,13 +1,27 @@
+<js>
+    this.nav = [
+        {url: '/lessons/', link: 'Lessons'},
+        {url: '/bols.html', link: 'Bols'},
+        {url: '/misc.html', link: 'Notes'},
+        {url: '/mantras.html', link: 'Mantras'},
+        {url: '/other.html', link: 'Other Mantras'},
+    ];
+
+    _.each(this.nav, function(el) {
+        if(this.navActive && el.link === this.navActive) {
+            el.active = true;
+        }
+    }, this);
+</js>
+
 <section class="sidebar">
     <div class="wrapper">
         <a class="logo" href="/">Mridanga Lessons</a>
         <nav>
             <ul>
-                <li><a href="/lessons/">Lessons</a></li>
-                <li><a href="/bols.html">Bols</a></li>
-                <li><a href="/misc.html">Notes</a></li>
-                <li><a href="/mantras.html">Mantras</a></li>
-                <li><a href="/other.html">Other Mantras</a></li>
+                {{#nav}}
+                <li><a {{#active}}class="active"{{/active}} href="{{url}}">{{link}}</a></li>
+                {{/nav}}
             </ul>
         </nav>
     </div>

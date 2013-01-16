@@ -2,7 +2,8 @@
 {
     "id": "lessonIndex",
     "urlPath": "lessons/",
-    "urlName": "index"
+    "urlName": "index",
+    "navActive": "Lessons"
 }
 </data>
 <js>

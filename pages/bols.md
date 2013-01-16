@@ -2,7 +2,8 @@
 {
     "title": "The Bols",
     "urlPath": "",
-    "urlName": "bols"
+    "urlName": "bols",
+    "navActive": "Bols"
 }
 </data>
 

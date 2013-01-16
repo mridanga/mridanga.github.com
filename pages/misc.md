@@ -1,7 +1,8 @@
 <data>
 {
     "title": "Miscelanious Information",
-    "urlPath": ""
+    "urlPath": "",
+    "navActive": "Notes"
 }
 </data>
 

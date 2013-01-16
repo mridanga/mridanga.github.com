@@ -1,6 +1,7 @@
 <data>
 {
-    "urlPath": ""
+    "urlPath": "",
+    "navActive": "Mantras"
 }
 </data>
 
