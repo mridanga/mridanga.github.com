@@ -1,10 +1,12 @@
-{
-    "sitePathAbs": "./" ,
-    "sitePathRel": "./public/",
-    "rootPathAbs": "/Users/kwelch12/Sites/blog/",
-    "rootPathRel": "./",
+site.settings = {
+    inputPath: './',
+    outputPath: './public/',
 
-    "trimHTML": false,
+    developmentUrl: '/',
+    productionUrl: '/',
+    baseUrl: '/',
 
-    "inputFolders": ["lessons/"]
+    trimHTML: false,
+
+    inputFolders: ["lessons/"]
 }
