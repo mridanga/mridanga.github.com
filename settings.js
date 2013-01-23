@@ -2,11 +2,11 @@ site.settings = {
     inputPath: './',
     outputPath: './public/',
 
-    developmentUrl: '/',
+    developmentUrl: '/mridanga/public/',
     productionUrl: '/',
     baseUrl: '/',
 
-    trimHTML: false,
+    trimHTML: true,
 
     inputFolders: ["lessons/"]
 }
