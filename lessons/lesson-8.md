@@ -52,7 +52,7 @@ If you notice, the variation comes in the last line of the mantra. The original 
 
 ### New Tihai
 
-The new tiha variation is also a simple change. Again, the tihai is a three beat with the last matra being a pause.  Recall what we learned about tihais in [Lesson 3](/lessons/three.html). The last matra of this tihai consumes the first matra of the subsequent mantra. 
+The new tiha variation is also a simple change. Again, the tihai is a three beat with the last matra being a pause.  Recall what we learned about tihais in [Lesson 3](~lessons/three). The last matra of this tihai consumes the first matra of the subsequent mantra. 
 
 <table>
     <tr>

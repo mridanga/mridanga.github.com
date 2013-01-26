@@ -5,25 +5,21 @@
 </data>
 
 <js>
-var lessons = _.chain(site.pages)
-                .filter(function(page) {
-                    return page.type === 'lesson';
-                })
-                .toArray()
-                .sortBy(function(lesson) {
-                    return parseInt(lesson.title, 10);
-                })
-                .value();
+var lessons = _.filter(site.pages, function(page) {
+    return page.type === 'lesson';
+});
 
-var i;
+var lessonIndex;
 
-for (i = 0; i < lessons.length; i++) {
-    if (lessons[i].id === this.id)
+for (var i = 0; i < lessons.length; i++) {
+    if (lessons[i].id === this.id) {
+        lessonIndex = i;
         break;
+    }
 }
 
-this.lessonPrevious = (i < 0) ? null : lessons[i-1];
-this.lessonNext = (i+1 >= lessons.length) ? null : lessons[i+1];
+this.lessonPrevious = (lessonIndex+1 >= lessons.length) ? null : lessons[i+1];
+this.lessonNext = (lessonIndex-1 < 0) ? null : lessons[i-1];
 
 </js>
 
@@ -37,6 +33,8 @@ this.lessonNext = (i+1 >= lessons.length) ? null : lessons[i+1];
         <h1>{{title}}</h1>
     {{/title}}
 
+    <h1>help</h1>
+
     <!-- @place('content') -->
 
     <div class="lesson-navigation">
@@ -47,7 +45,7 @@ this.lessonNext = (i+1 >= lessons.length) ? null : lessons[i+1];
         {{/lessonPrevious}}
         {{#lessonNext}}
             <p class="next">
-                <a href="{{url}}">{{title}} &rarr;</a>
+                <a href="{{url}}">&rarr; {{title}}</a>
             </p>
         {{/lessonNext}}
     </div>

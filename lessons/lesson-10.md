@@ -1,7 +1,7 @@
 <data>
 {
     "date": "Januar 1, 2013",
-    "title": "10: Bhajani Tala + (Simple) Full Kirtan",
+    "title": "10: Bhajani Tala and Full Kirtan",
     "synopsis": "In lesson 11, we will learn how to play a simple bhajan rhythm. It has an off-beat nature which can be tricky to pick up at first. In the supplement, we will learn how to transition between kaherva and bhajani tala and implement them both in a full (and simple) kirtan.",
     "urlName": "ten"
 }
@@ -53,8 +53,8 @@ You can add some variation to this mantra by doubling up on the *ghe's* in certa
 
 ### Supplement
 
-In the supplement, we will go over how to play a simple kirtan to some of the mantras we have learned thus far. We will start the kirtan with a slow paced kaherva rhythm from [Lesson 4](/lessons/four.html). We will then transition into a slow paced bhajani tala we just learned.
+In the supplement, we will go over how to play a simple kirtan to some of the mantras we have learned thus far. We will start the kirtan with a slow paced kaherva rhythm from [Lesson 4](~lessons/four). We will then transition into a slow paced bhajani tala we just learned.
 
-From there, we will transition back into a faster kaherva, and then end with a fast bhajani tala. All the while we will include tiahai's from [Lesson 3](/lessons/three.html).
+From there, we will transition back into a faster kaherva, and then end with a fast bhajani tala. All the while we will include tiahai's from [Lesson 3](~lessons/three).
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/rP905csEXd0" frameborder="0" allowfullscreen></iframe>

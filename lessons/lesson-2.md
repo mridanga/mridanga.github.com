@@ -11,7 +11,7 @@ Review of the bols
 Learning how to sing to the first mantra
 Two new mantras
 
-The next mantra we will learn is a variation of the mantra from [Lesson 1](/lessons/one.html). We are adding an additional matra to the first part of the mantra. We added a *khe* in to the second matra:
+The next mantra we will learn is a variation of the mantra from [Lesson 1](~lessons/one). We are adding an additional matra to the first part of the mantra. We added a *khe* in to the second matra:
 
 <table>
     <tr>
