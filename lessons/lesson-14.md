@@ -13,9 +13,9 @@
 **WRONG**
 <table>
     <tr>
-        <td>dha -</td>
-        <td>ge</td>
-        <td>ti</td>
+        <td>dha</td>
+        <td>-</td>
+        <td>ghe ti</td>
         <td>kha</td>
     </tr>
     <tr>
