@@ -11,8 +11,20 @@ Here are some other mantras that I have found fun to play. No particular order.
 
 ### Kaherva
 
-    dhin [- ta] ti Ta
-    ti ta dhin ta
+<table>
+<tr>
+<td>dhin</td>
+<td>- ta</td>
+<td>ti</td>
+<td>Ta</td>
+</tr>
+<tr>
+<td>ti</td>
+<td>ta</td>
+<td>dhin</td>
+<td>ta</td>
+</tr>
+</table>
 
 ### Drut Kaherva
 
@@ -25,21 +37,70 @@ Here are some other mantras that I have found fun to play. No particular order.
 
 ### Prabhupada Tala
 
-    dha - ti ta
-    ta [ra ti] [ra ti] ta
-    ki [ti ki] [ta ghe] dha
-    dhin dha dhin dha
+<table>
+<tr>
+<td>dha</td>
+<td>-</td>
+<td>ti</td>
+<td>ta</td>
+</tr>
+<tr>
+<td>ta</td>
+<td>rati</td>
+<td>rati</td>
+<td>ta</td>
+</tr>
+<tr>
+<td>ki</td>
+<td>tiki</td>
+<td>taghe</td>
+<td>dha</td>
+</tr>
+<tr>
+<td>dhin</td>
+<td>dha</td>
+<td>dhin</td>
+<td>dha</td>
+</tr>
+</table>
 
 ### Bhajani Tala
 
-    dhin [ta ghe] [ti ghe] ta
-    kat [ta ki] [ti ki] ta
+<table>
+<tr>
+<td>dhin</td>
+<td>taghe</td>
+<td>tighe</td>
+<td>ta</td>
+</tr>
+<tr>
+<td>kat</td>
+<td>taki</td>
+<td>tiki</td>
+<td>ta</td>
+</tr>
+</table>
+
 
 ### Tehais
 
-    ti ta ki ti dha
-    ti ta ki ti dha
-    ti ta ki ti dha
+<table>
+<tr>
+<td>ti ta</td>
+<td>ki ti</td>
+<td>dha</td>
+</tr>
+<tr>
+<td>ti ta</td>
+<td>ki ti</td>
+<td>dha</td>
+</tr>
+<tr>
+<td>ti ta</td>
+<td>ki ti</td>
+<td>dha</td>
+</tr>
+</table>
 
     ti ta ki ti dha
     ti ta ki ti dha ta - Ta - dha ta

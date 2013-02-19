@@ -7,10 +7,6 @@
 </data>
 
 
-    dha - ge ti kha ti kha dhi na
-
-
-**WRONG**
 <table>
     <tr>
         <td>dha</td>
@@ -28,10 +24,6 @@
 
 
 
-    dhi dha ti kha ti dha dhi na
-
-
-**WRONG**
 <table>
     <tr>
         <td>dhi</td>
